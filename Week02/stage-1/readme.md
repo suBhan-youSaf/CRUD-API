@@ -53,7 +53,7 @@ Open a separate terminal window and run the following standard HTTP queries to c
 
 * **Verify Meta Description:**
 ```bash
-curl.exe -i http://localhost:3000/
+curl -i http://localhost:3000/
 
 ```
 
@@ -61,7 +61,7 @@ curl.exe -i http://localhost:3000/
 *Expected Output:* `200 OK` status with a JSON object containing the API metadata.
 * **Verify Server Health:**
 ```bash
-curl.exe -i http://localhost:3000/health
+curl -i http://localhost:3000/health
 
 ```
 
