@@ -6,9 +6,7 @@ A lightweight Express.js server that establishes the foundational layout and bas
 ## Project Structure
 ```text
 └── 📁 stage-1/
-    ├── 📄 .gitignore
-    ├── 📄 package.json
-    ├── 📄 package-lock.json
+    ├── 📄 README.md
     └── 📄 server.js
 
 ```
