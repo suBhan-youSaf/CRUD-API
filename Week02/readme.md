@@ -8,7 +8,7 @@ Ensure you have your lane's runtime installed (Node.js or Python) as per the cou
 
 ## Quick Start
 
-### Option A: Node.js (Express Lane)
+Node.js (Express Lane)
 1. Install dependencies:
    ```bash
    npm install express
